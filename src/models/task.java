@@ -24,7 +24,7 @@ import javax.persistence.Table;
             )
 
 })
-@Table(name = "task")
+@Table(name = "tasks")
 public class task {
 //    タスクのID
     @Id
